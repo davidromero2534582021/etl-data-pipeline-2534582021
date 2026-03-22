@@ -1,0 +1,22 @@
+id_empleado,nombre,id_departamento,fecha_ingreso,motivo_rechazo
+EM403,Elena Rivas,D99,2020-01-14,departamento_D99_no_existe
+EM406,Adriana Santos,D99,2022-04-22,departamento_D99_no_existe
+EM419,Elena Ramírez,D16,,fecha_ingreso_invalida
+EM422,Luis Romero,,2020-08-07,id_departamento_vacio
+EM423,Daniela López,D99,2020-07-16,departamento_D99_no_existe
+EM426,Daniela Martínez,,2021-05-08,id_departamento_vacio
+EM447,Luis Mendoza,D14,,fecha_ingreso_invalida
+EM458,Andrea Martínez,D12,,fecha_ingreso_invalida
+EM469,Luis Castro,D13,,fecha_ingreso_invalida
+EM474,Natalia Santos,,2020-07-14,id_departamento_vacio
+EM483,Kevin Flores,,2021-07-09,id_departamento_vacio
+EM487,Diego Cruz,D14,,fecha_ingreso_invalida
+EM490,Elena Reyes,,2023-09-09,id_departamento_vacio
+EM491,Mario Guerrero,D15,,fecha_ingreso_invalida
+EM496,Elena Morales,D12,,fecha_ingreso_invalida
+EM498,Jorge Vásquez,,2020-10-22,id_departamento_vacio
+EM501,Paola Pérez,D10,,fecha_ingreso_invalida
+EM504,Carmen Morales,,2020-06-06,id_departamento_vacio
+EM510,Natalia Guerrero,D11,,fecha_ingreso_invalida
+EM515,Camila Torres,D13,,fecha_ingreso_invalida
+EM525,Ana Flores,D12,,fecha_ingreso_invalida
